@@ -1,0 +1,4 @@
+config/pialert.conf
+db/pialert.db
+log/report_output.html
+log/report_output.txt
